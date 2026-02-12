@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Shala La",
+  "base_artist": "THE ORAL CIGARETTES",
+  "createdAt": "2026-02-12T13:43:21.358710Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shala La",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/01_Shala_La_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shala La",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/02_Shala_La_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shala-La-La",
+      "artist": "paris match",
+      "has_synced": false,
+      "path": "select/03_Shala-La-La_paris_match.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shala La (Instrumental)",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/04_Shala_La_(Instrumental)_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shala La La",
+      "artist": "Aaron Diaz",
+      "has_synced": true,
+      "path": "select/05_Shala_La_La_Aaron_Diaz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shala-la-la",
+      "artist": "Pikku G",
+      "has_synced": false,
+      "path": "select/06_Shala-la-la_Pikku_G.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ปลาร้า Shala la",
+      "artist": "ตั๊กแตน ชลดา",
+      "has_synced": true,
+      "path": "select/07_ปลาร้า_Shala_la_ตั๊กแตน_ชลดา.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shala La",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/pl_01_Shala_La_THE_ORAL_CIGARETTES.txt"
+    }
+  ]
+}
